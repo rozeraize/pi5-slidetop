@@ -13,7 +13,7 @@ WARNING: the 3D models on this repo are not finished. I will post updates and re
 
 # Parts
 
-WARNING: I have not used any of the sellers which I have linked to nor can I confirm their validity. When buying from any of the sellers that I've linked be cautious and do your own research. 
+WARNING: I have no affiliation with the sellers which I have linked to nor can I confirm their validity. When buying from any of the sellers that I've linked be cautious and do your own research. 
 
 1. I used a 9.7" LCD display. Here is a link to the screen and controller board that I used: https://www.aliexpress.us/item/3256804853009409.html?src=bing&aff_short_key=UneMJZVf&aff_platform=true&isdl=y&albch=shopping&acnt=135095331&isdl=y&albcp=555009888&albag=1306220957358842&slnk=&trgt=pla-4585238373885205&plac=&crea=81638865041502&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_US_PLA_PC_Electronic_Max%20Value%E6%94%B9TROAS_20240704_AESupply&utm_content=Electronic&utm_term=9.7inch%20lcd%20screen%20with%20controller%20board&msclkid=c5985899ba16178741bb301492bd51f6&gatewayAdapt=glo2usa
 2. I used the Geekworm X1001 PCIe to M.2 Key-M NVMe SSD PIP TOP for the NVMe slot. Here is a link to the seller: https://geekworm.com/products/x1001. I removed the 5V INPUT terminal from the NVMe slot since it was to big to fit.
